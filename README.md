@@ -6,7 +6,7 @@ The program was created during Polish Children Fund (http://fundusz.org/x/en/) w
 
 ## What it actually do
 Here we have a rheed image:
-![alt tag](https://raw.githubusercontent.com/Cheetar/image-intensity-analyzer/blob/master/rheed.bmp)
+![Alt text](/rheed.bmp)
 The program shows animation of intensity distribution in subsequent ,,slices'' of image i.e. horizontal lines each with bigger and bigger y coordinate.
 
 ## Usage
